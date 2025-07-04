@@ -3,6 +3,9 @@
 // Module 4 Assignment 4B: My Personal Data
 // Date: 07/03/2025
 
+// URL added to myDataJournal.js as a comment
+// https://github.com/mlwere1977/cs81-module4b-mydataexplore.git
+
 // My Weekly Journal Data
 // This array holds daily entries for one week, each with personal data points
 const My_Weekly_Journal = [
